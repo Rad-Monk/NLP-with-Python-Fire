@@ -3,8 +3,6 @@ pytest-cov==5.0.0
 pylint==3.2.3
 black==24.4.2
 ipython==8.25.0
-textblob
-wikipedia
-fire
-pytest
-pytest-cov
+fire==0.6.0
+textblob==0.18.0.post0
+wikipedia==1.4.0
