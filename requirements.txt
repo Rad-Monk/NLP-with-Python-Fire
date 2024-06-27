@@ -6,3 +6,5 @@ ipython==8.25.0
 textblob
 wikipedia
 fire
+pytest
+pytest-cov
